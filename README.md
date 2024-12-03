@@ -21,4 +21,4 @@ cd password_manager
 
 
 Team Members
-V. Poorna Chandra - @Hackerpoorna - Team Member
+V. Poorna Chandra -  https://github.com/Hackerpoorna - Team Member
